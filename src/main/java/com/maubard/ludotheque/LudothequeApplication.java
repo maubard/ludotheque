@@ -1,12 +1,12 @@
-package com.maubard.ludoth.que;
+package com.maubard.ludotheque;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LudothèqueApplication {
+public class LudothequeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LudothèqueApplication.class, args);
+		SpringApplication.run(LudothequeApplication.class, args);
 	}
 }
